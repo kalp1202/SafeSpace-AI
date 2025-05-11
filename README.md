@@ -69,12 +69,19 @@ Why We Chose Gemma 3:
     🛡️ Built with responsible AI practices.
 
 🧪 Fine-Tuning Details
+
 Component	Details
 Base Model	Gemma 3 (12B parameters) from Hugging Face
 Technique	LoRA (Low-Rank Adaptation)
 Dataset	Curated prompts + mental health and empathy-focused conversations
 Platform	Hugging Face Notebooks
 Objective	Empathetic response generation for diverse emotional states
+
+📹 Video Demo
+
+https://github.com/user-attachments/assets/a8b44848-a747-4ede-9158-aad53b59bfe3
+
+P.S.: The video has no sound included but the website does output in different voices which you can select from the dropdown menu.
 
 🚧 Challenges Faced
 
@@ -119,3 +126,4 @@ Objective	Empathetic response generation for diverse emotional states
     🧬 Keras Documentation: https://keras.io
 
     🧑‍💻 GitHub Docs: https://docs.github.com
+
