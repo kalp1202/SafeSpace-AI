@@ -101,3 +101,21 @@ Objective	Empathetic response generation for diverse emotional states
     🤗 Hugging Face Space (Gradio UI): https://huggingface.co/spaces/made1570/TestingModelAPI
 
     🧠 Fine-Tuned LLM (Gemma 3): https://huggingface.co/adarsh3601/my_gemma3_pt
+
+📚 References
+
+    🤗 Hugging Face: https://huggingface.co
+
+    🧠 Gemma LLM by Google: https://ai.google.dev/gemma
+
+    🎛️ Gradio Framework: https://www.gradio.app
+
+    🚀 Render Deployment Platform: https://render.com
+
+    🔐 Google Developers Console (OAuth): https://console.developers.google.com
+
+    🎙️ Web Speech API (MDN Docs): https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+
+    🧬 Keras Documentation: https://keras.io
+
+    🧑‍💻 GitHub Docs: https://docs.github.com
